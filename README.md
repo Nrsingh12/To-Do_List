@@ -35,6 +35,7 @@
 
 ## 📁 Folder Structure
 
+```pgsal
 to-do_list/
 ├── public/
 ├── src/
@@ -42,6 +43,4 @@ to-do_list/
 │   ├── App.css
 │   └── index.js
 ├── package.json
-└── README.md
-
-
+└── README.md```
