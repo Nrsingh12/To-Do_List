@@ -1,55 +1,40 @@
-📝 To-Do List App
-A sleek and simple React-based To-Do List app to manage your daily tasks with features like task priorities, due dates, search, filtering, inline editing, and persistent local storage.
+# 📝 To-Do List App
 
-🚀 Features
-✅ Add Tasks with a description, priority (Low/Medium/High), and due date
+- A sleek and simple React-based To-Do List app to manage your daily tasks with features like task priorities, due dates, search, filtering, inline editing, and persistent local storage.
 
-🔍 Search through tasks by keywords
+## 🚀 Features
+- ✅ Add Tasks with description, priority (Low/Medium/High), and due date
 
-📌 Priority Tagging with colored indicators
+- 🔍 Search through tasks by keywords
 
-🗓️ Due Dates for better time management
+- 📌 Priority Tags with colored indicators
 
-🎯 Mark as Complete / Pending
+- 🗓️ Due Dates for better time management
 
-✏️ Inline Editing of task name
+- 🎯 Mark as Complete / Pending
 
-🔍 Filter Tasks by status (All / Completed / Pending)
+- ✏️ Inline Editing of task name
 
-🗑️ Delete Individual Tasks with confirmation modal
+- 🔄 Filter Tasks (All / Completed / Pending)
 
-🚫 Clear All Tasks at once
+- 🗑️ Delete Individual Tasks with confirmation modal
 
-💾 LocalStorage Support for persistence
+- 🧹 Clear All Tasks
 
-🎨 Responsive UI with intuitive design
+- 💾 LocalStorage for data persistence
 
-🌙 Optional: Easy to extend with features like dark mode, sorting, or category tags
+- 📱 Responsive UI
 
-🛠️ Tech Stack
-⚛️ React (Functional Components + Hooks)
+## 🛠️ Tech Stack
+- ⚛️ React (Hooks + Functional Components)
 
-🎨 CSS (custom styling + responsive layout)
+- 🎨 CSS
 
-🧠 LocalStorage (for storing tasks persistently)
+- 🧠 LocalStorage
 
-📦 Installation
-bash
-Copy
-Edit
-git clone https://github.com/your-username/to-do_list.git
-cd to-do_list
-npm install
-npm start
-This will start the development server at http://localhost:3000.
 
-📸 Screenshots
-Include screenshots here if possible for a better visual preview.
+## 📁 Folder Structure
 
-📁 Folder Structure
-pgsql
-Copy
-Edit
 to-do_list/
 ├── public/
 ├── src/
@@ -58,17 +43,5 @@ to-do_list/
 │   └── index.js
 ├── package.json
 └── README.md
-🤓 Future Improvements
-🔔 Notifications for due tasks
 
-🌗 Dark Mode Toggle
 
-🗃️ Category / Tag-based organization
-
-☁️ Backend integration (MongoDB/Firebase)
-
-🤝 Contributing
-Feel free to fork this repo, submit issues, or make pull requests. All contributions are welcome!
-
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
