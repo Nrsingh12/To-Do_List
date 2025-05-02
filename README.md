@@ -41,7 +41,9 @@ to-do_list/
 ├── src/
 │   ├── App.js
 │   ├── App.css
+│   ├── index.css
 │   └── index.js
 ├── package.json
+├── package-lock.json
 └── README.md
 ```
